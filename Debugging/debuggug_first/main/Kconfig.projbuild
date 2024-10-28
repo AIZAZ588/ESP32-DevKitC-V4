@@ -1,0 +1,18 @@
+menu "Aizaz"
+config my_choice
+    help
+        This is my custom help
+    choice 
+        bool "select a choice"
+        default option_2
+        config option_1
+            bool "this is the first choice"
+        config option_2
+            bool "this is the second choice"
+            
+    endchoice
+
+config var1
+    bool "Select yes or no"
+    
+endmenu
