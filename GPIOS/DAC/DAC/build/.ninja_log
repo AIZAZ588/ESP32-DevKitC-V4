@@ -1939,3 +1939,5 @@
 43485	43607	1730112517737725618	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/DAC/DAC/build/.bin_timestamp	1f1d9454e8deb278
 43607	43641	0	esp-idf/esptool_py/CMakeFiles/app_check_size	c35a0e85cbfbaba6
 43607	43641	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/DAC/DAC/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c35a0e85cbfbaba6
+0	2607431	0	CMakeFiles/confserver	1b685edde3552bc1
+0	2607431	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/DAC/DAC/build/CMakeFiles/confserver	1b685edde3552bc1
