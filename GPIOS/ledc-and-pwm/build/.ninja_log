@@ -2150,3 +2150,5 @@
 5114	5254	1730183786683311469	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/ledc-and-pwm/build/.bin_timestamp	f06524ad7dbcc8c
 5254	5286	0	esp-idf/esptool_py/CMakeFiles/app_check_size	ad6225c8d95f2ab8
 5254	5286	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/ledc-and-pwm/build/esp-idf/esptool_py/CMakeFiles/app_check_size	ad6225c8d95f2ab8
+0	1335985	0	CMakeFiles/confserver	8aea3f27101650dd
+0	1335985	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/ledc-and-pwm/build/CMakeFiles/confserver	8aea3f27101650dd
