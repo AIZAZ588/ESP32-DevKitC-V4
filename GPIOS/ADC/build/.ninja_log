@@ -1021,3 +1021,5 @@
 5034	5170	1730119186861604645	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/ADC/build/.bin_timestamp	5ccbdbf8da3a6ffa
 5170	5206	0	esp-idf/esptool_py/CMakeFiles/app_check_size	119966a776e08243
 5170	5206	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/ADC/build/esp-idf/esptool_py/CMakeFiles/app_check_size	119966a776e08243
+0	6578693	0	CMakeFiles/confserver	bf24fe811e7388ee
+0	6578693	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/ADC/build/CMakeFiles/confserver	bf24fe811e7388ee
