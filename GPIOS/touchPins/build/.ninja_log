@@ -1037,3 +1037,5 @@
 4737	4855	1730187783597620427	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/touchPins/build/.bin_timestamp	3e8ca57f2ea000c9
 4855	4889	0	esp-idf/esptool_py/CMakeFiles/app_check_size	2600a084bb1f3779
 4855	4889	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/touchPins/build/esp-idf/esptool_py/CMakeFiles/app_check_size	2600a084bb1f3779
+0	889107	0	CMakeFiles/confserver	4a4f70c1c1fde87f
+0	889107	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/GPIOS/touchPins/build/CMakeFiles/confserver	4a4f70c1c1fde87f
