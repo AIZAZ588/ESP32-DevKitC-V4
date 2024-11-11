@@ -995,3 +995,5 @@
 5219	5347	1731044817540333127	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/sleeping/light-sleep-with-timer/build/.bin_timestamp	79d90e7ff48de57a
 5347	5381	0	esp-idf/esptool_py/CMakeFiles/app_check_size	9ed54a561f97a384
 5347	5381	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/sleeping/light-sleep-with-timer/build/esp-idf/esptool_py/CMakeFiles/app_check_size	9ed54a561f97a384
+0	1603681	0	CMakeFiles/confserver	9702cab6b5fdcf6d
+0	1603681	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/sleeping/light-sleep-with-timer/build/CMakeFiles/confserver	9702cab6b5fdcf6d
