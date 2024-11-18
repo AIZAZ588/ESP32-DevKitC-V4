@@ -1,0 +1,23 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "/home/aizaz/esp/tool/tools/xtensa-esp-elf-gdb/14.2_20240403/xtensa-esp-elf-gdb/bin:/home/aizaz/esp/tool/tools/riscv32-esp-elf-gdb/14.2_20240403/riscv32-esp-elf-gdb/bin:/home/aizaz/esp/tool/tools/xtensa-esp-elf/esp-13.2.0_20240530/xtensa-esp-elf/bin:/home/aizaz/esp/tool/tools/riscv32-esp-elf/esp-13.2.0_20240530/riscv32-esp-elf/bin:/home/aizaz/esp/tool/tools/esp32ulp-elf/2.38_20240113/esp32ulp-elf/bin:/home/aizaz/esp/tool/tools/openocd-esp32/v0.12.0-esp32-20240318/openocd-esp32/bin:/home/aizaz/esp/tool/tools/esp-rom-elfs/20240305",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/home/aizaz/esp/tool/tools/openocd-esp32/v0.12.0-esp32-20240318/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/home/aizaz/esp/tool/tools/esp-rom-elfs/20240305/"
+    },
+    "idf.espIdfPath": "/home/aizaz/esp/v5.3.1/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.port": "/dev/ttyACM0",
+    "idf.pythonBinPath": "/home/aizaz/esp/tool/python_env/idf5.3_py3.10_env/bin/python",
+    "idf.toolsPath": "/home/aizaz/esp/tool",
+    "files.associations": {
+        "protocol_examples_common.h": "c",
+        "stdio.h": "c",
+        "esp_http_client.h": "c",
+        "esp_wifi.h": "c"
+    },
+    "idf.flashType": "UART"
+}
