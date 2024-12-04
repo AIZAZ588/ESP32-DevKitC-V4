@@ -1074,3 +1074,5 @@
 7177	7343	1733123374070395348	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/Internet Connection/NTP-Sync/build/.bin_timestamp	49f2383b894bb8c7
 7343	7377	0	esp-idf/esptool_py/CMakeFiles/app_check_size	e5ef612497123f5c
 7343	7377	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/Internet Connection/NTP-Sync/build/esp-idf/esptool_py/CMakeFiles/app_check_size	e5ef612497123f5c
+0	13330286	0	CMakeFiles/confserver	f3f2f72755e2ca12
+0	13330286	0	/home/aizaz/devomech/learning/esp32/ESP32-DevKitC-V4/Internet Connection/NTP-Sync/build/CMakeFiles/confserver	f3f2f72755e2ca12
